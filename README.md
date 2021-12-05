@@ -1,4 +1,4 @@
-Ganti konfigurasi pada src/database/database.php yang sesuai
+Ganti konfigurasi pada **src/database/database.php** yang sesuai
 
 ```php
 $servername = "localhost";
